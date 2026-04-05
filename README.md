@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aarohisellssomething.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanujchowdhary@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--9958994526-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 </div>
 
@@ -176,7 +175,7 @@ Built the corporate site + admin suite in **Next.js + Supabase** — achieved **
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanujongit4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanujongit4&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
