@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="360" src="https://avatars.githubusercontent.com/u/146480441?v=4&size=64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="right" width="360" src="https://aarohisellssomething.vercel.app/images/aigen.png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 ### `> whoami`
 
