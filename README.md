@@ -1,160 +1,47 @@
-<div align="center">
+# Aarohi Bhanuj Chowdhary
 
-```
-█████╗  █████╗ ██████╗  ██████╗ ██╗  ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║  ██║██║
-███████║███████║██████╔╝██║   ██║███████║██║
-██╔══██║██╔══██║██╔══██╗██║   ██║██╔══██║██║
-██║  ██║██║  ██║██║  ██║╚██████╔╝██║  ██║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
-```
+Full-stack engineering student at NSUT with production experience shipping ML pipelines, data platforms, and client-facing applications. I care about reliability, performance, and owning things end-to-end.
 
-### `> full-stack engineer · ml builder · shipped to prod`
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aarohisellssomething.vercel.app-black?style=for-the-badge&labelColor=000)](https://aarohisellssomething.vercel.app/)
-[![Email](https://img.shields.io/badge/📬_Email-bhanujchowdhary@gmail.com-black?style=for-the-badge&labelColor=000)](mailto:bhanujchowdhary@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-bhanujongit4-black?style=for-the-badge&labelColor=000)](https://github.com/bhanujongit4/)
-
-</div>
+[Portfolio](https://aarohisellssomething.vercel.app/) · [Email](mailto:bhanujchowdhary@gmail.com) · +91-9958994526
 
 ---
 
-## `whoami`
+## Experience
 
-```python
-class Aarohi:
-    name        = "Aarohi Bhanuj Chowdhary"
-    degree      = "B.Tech Instrumentation & Control Eng @ NSUT, New Delhi"
-    focus       = ["Full-Stack Engineering", "ML Pipelines", "Production Systems"]
-    currently   = "Building things that actually ship"
-    available   = True  # open to opportunities
-```
+**Orange Business** — Intern, CTIO · *May 2024 – Jul 2024*
+Built a full-stack sentiment analysis pipeline (Next.js + Flask) with sub-200ms inference latency, and a collaborative filtering recommendation engine over 10,000+ entries using dot-product attention.
 
-> Full-stack engineering student with **production experience** across ML pipelines, data-driven web platforms, and real-world client deployments. I build and ship systems — from Dockerized ML microservices and AI-powered terminals to SEO-optimized business platforms — with a focus on **reliability, performance, and end-to-end ownership.**
+**Turning Point PVT LTD** — Full Stack Intern · *Jun 2025 – Oct 2025*
+Architected the institute's web platform in Next.js with SSR, improving Core Web Vitals by 20% through asset minification and image optimization.
+
+**Debsoc NSIT** — Director, Tech & Design · *Oct 2023 – Present*
+Built the corporate site and admin suite in Next.js + Supabase — Lighthouse 96/95 (Best Practices/SEO), 45% lift in lead generation. Led live tabulation for 100+ participant events with zero downtime.
 
 ---
 
-## `tech_stack.json`
+## Projects
 
-```json
-{
-  "languages":    ["JavaScript", "TypeScript", "Python", "SQL", "C++"],
-  "frontend":     ["Next.js", "React", "Tailwind CSS"],
-  "backend":      ["Node.js", "Flask", "FastAPI"],
-  "ml_ai":        ["LangChain", "HuggingFace", "PyTorch", "TensorFlow", "Keras",
-                   "scikit-learn", "hmmlearn", "Pinecone", "Vector DBs"],
-  "infra":        ["Docker", "PostgreSQL", "Supabase", "Firebase", "MongoDB",
-                   "Neon", "Vercel", "Render", "Git"]
-}
-```
+**[IN$JAM — Stock Intelligence Terminal](https://github.com/bhanujongit4/adisasterousstockapp)** · `Next.js · FastAPI · Docker · Neon · scikit-learn · hmmlearn`  
+Production-grade trading terminal with three ML signal pipelines (regime classification, order-flow analysis, anomaly detection), 21 technical indicators, JWT auth, and persistent watchlists. Frontend on Vercel, ML backend on Render. *(Mar 2026)*
+
+**[Good Morning India Holidays](https://github.com/bhanujongit4/travelapp)** · `Next.js · Supabase · Tailwind CSS`  
+Freelance full-stack booking platform for a Delhi tour operator — dynamic CMS, inquiry pipeline, SEO-optimized SSR. *(Feb 2026)*
+
+**[Emberline](https://github.com/bhanujongit4/ragbutuseful)** · `Pinecone · Ollama · GitHub API · Next.js`  
+RAG application for querying PDFs, analyzing GitHub repos, summarizing commit diffs, and comparing code against stored engineering standards. *(Mar 2026)*
 
 ---
 
-## `experience --verbose`
+## Skills
 
-<details>
-<summary><b>🟠 Orange Business</b> — Intern, CTIO &nbsp;|&nbsp; <i>May 2024 – Jul 2024 · Gurugram</i></summary>
-
-<br/>
-
-> Global leader in enterprise-scale AI
-
-- **Sentiment Analysis Pipeline** — Full-stack NLP system with Next.js + Flask achieving **sub-200ms inference latency** for real-time text classification
-- **Movie Recommendation Engine** — High-dimensional latent space model using dot-product attention, trained on 10,000+ entries for personalized rankings
-
-</details>
-
-<details>
-<summary><b>📚 Turning Point PVT LTD</b> — Intern, Full Stack Web Dev &nbsp;|&nbsp; <i>Jun 2025 – Oct 2025 · New Delhi</i></summary>
-
-<br/>
-
-> Education institute with 25+ years in business
-
-- Architected the institute's web platform in **Next.js with SSR**, achieving a **20% improvement in Core Web Vitals**
-- Advanced asset minification + image optimization → significantly reduced time-to-interactive for high-volume organic traffic
-
-</details>
-
-<details>
-<summary><b>🎙️ Debsoc NSIT</b> — Director, Tech & Design &nbsp;|&nbsp; <i>Oct 2023 – Present · New Delhi</i></summary>
-
-<br/>
-
-> Host of India's largest inter-collegiate debating tournaments
-
-- Built corporate website + admin suite in **Next.js + Supabase** → Google Lighthouse **96 (Best Practices)** / **95 (SEO)** → **45% increase in lead generation**
-- Led real-time tabulation & data engineering for **100+ participant events** — zero downtime, 100% data integrity across 20+ concurrent rounds
-
-</details>
+**Languages:** JavaScript, TypeScript, Python, SQL, C++  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Backend:** Node.js, Flask, FastAPI  
+**ML/AI:** PyTorch, TensorFlow, Keras, scikit-learn, LangChain, Hugging Face, Pinecone, hmmlearn  
+**Infra:** Docker, PostgreSQL, Supabase, Firebase, MongoDB, Neon, Git
 
 ---
 
-## `ls -la ./projects`
+## Recognition
 
-### 📈 [IN$JAM — AI-Powered Stock Intelligence Terminal](https://github.com/bhanujongit4/)
-> `TypeScript · FastAPI · Docker · Neon/Postgres · scikit-learn · hmmlearn`
-
-Production-grade stock terminal with three ML-driven signal pipelines:
-- **Regime classification** · **Order-flow analysis** · **Anomaly detection**
-- 21 technical indicators, JWT auth, persistent watchlists, chart annotations via `lightweight-charts`
-- Frontend on **Vercel** · ML backend on **Render** *(March 2026)*
-
----
-
-### ✈️ [Good Morning India Holidays](https://github.com/bhanujongit4/) — *Freelance*
-> `Next.js · Supabase · Tailwind CSS`
-
-Full-stack travel booking platform for a Delhi-based tour operator:
-- Dynamic admin CMS for route & package management
-- Inquiry form pipeline + SEO-optimized SSR pages *(Feb 2026)*
-
----
-
-### 🔥 [Emberline — AI RAG Application](https://github.com/bhanujongit4/)
-> `Pinecone · Ollama · GitHub API · Next.js`
-
-AI-driven RAG app that lets users:
-- Query PDFs · Upload master guideline documents
-- Analyze GitHub repos + generate AI summaries of latest commit diffs
-- Compare code changes against stored engineering standards *(March 2026)*
-
----
-
-## `achievements --highlight`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏆  Amazon ML Challenge 2025 — Multimodal Price Prediction          │
-│      Ranked TOP 200 out of 6,000+ teams                             │
-│                                                                     │
-│      Designed a multimodal regression pipeline combining            │
-│      heterogeneous inputs, optimizing SMAPE via systematic          │
-│      feature engineering, model selection & held-out evaluation.    │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `git log --stat`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanujongit4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanujongit4&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
-</div>
-
----
-
-<div align="center">
-
-```
-// always building. always shipping.
-console.log("open to internships, collabs & interesting problems 🚀")
-```
-
-**`→ bhanujchowdhary@gmail.com`**
-
-</div>
+**Amazon ML Challenge 2025** — Top 200 of 6,000+ teams · Multimodal price prediction pipeline optimized for SMAPE via feature engineering and systematic model selection.
